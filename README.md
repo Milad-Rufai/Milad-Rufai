@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Milad-Rufai
-- 👀 I’m interested in Software Development and Programming
+- 👀 I’m interested in Frontend Development and Software Development
 - 🌱 I’m currently learning Software Engineering, Mobile Development and UX/UI
-- 💞️ I’m looking to collaborate on Software Development Projets
+- 💞️ I’m looking to collaborate on Frontend Development and Software Development Projets
 - 📫 You can reach me via email temilader19@gmail.com
 
 <!---
